@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "Design Patterns Java I"
+		},
+		{
+			"path": "01",
+			"name": "01 - Strategy",
+		},
+	],
+	"settings": {}
+}
