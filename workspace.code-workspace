@@ -1,13 +1,31 @@
 {
 	"folders": [
 		{
+			"name": "Alura - Design Patterns Java I",
 			"path": ".",
-			"name": "Design Patterns Java I"
 		},
 		{
-			"path": "01",
-			"name": "01 - Strategy",
+			"name": "Aulas",
+			"path": "Aulas",
 		},
+		{
+			"name": "Exercicio - Strategy",
+			"path": "Exercicio_Strategy",
+		},
+		{
+			"name": "Exercicio - Chain of Responsibility",
+			"path": "Exercicio_ChainOfResponsibility",
+		},
+		{
+			"name": "Exercicio - Template Method",
+			"path": "Exercicio_TemplateMethod",
+		},
+		{
+			"name": "Exercicio - Decorator",
+			"path": "Exercicio_Decorator",
+		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.tabSize": 2,
+	}
 }
